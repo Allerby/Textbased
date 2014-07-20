@@ -14,7 +14,7 @@
 <head>
 <meta charset="<?php bloginfo( 'charset' ); ?>" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link href='http://fonts.googleapis.com/css?family=Raleway:400,300,600,100,200' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Raleway:400,300,500,600,100,200' rel='stylesheet' type='text/css'>
 <title><?php bloginfo('name'); ?></title>
 <!--[if lt IE 9]>
 <link rel="stylesheet" href="<?php echo site_url('ie.css'); ?>">
