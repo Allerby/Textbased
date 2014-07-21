@@ -12,7 +12,24 @@ body.login {
 50% {opacity: 0.5; -webkit-transform: scale(1);}
 100% {-webkit-transform: scale(1); opacity: 1;}
 }
-
+.login form {
+  width:400px;
+  margin:0 auto;
+}
+input.input {
+  border-radius:20px;
+}
+input#user_pass, input#user_login {
+  padding-left:10px;
+}
+p#nav {
+  width:400px;
+  margin:0 auto !important;
+}
+p#backtoblog {
+  width:400px;
+  margin:0 auto;
+}
 body.login div#login h1 a {
   -webkit-animation-iteration-count: 1;
   -webkit-animation-delay: 2s;
