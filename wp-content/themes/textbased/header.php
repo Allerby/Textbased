@@ -14,6 +14,13 @@
 <head>
 <meta charset="<?php bloginfo( 'charset' ); ?>" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<!--og meta tags-->
+<meta property="og:title" content=""/>
+<meta property="og:url" content=""/>
+<meta property="og:image" content=""/>
+<meta property="og:site_name" content=""/>
+<meta property="og:description" content="" />
+<meta name="google-site-verification" content="" />
 <link href='http://fonts.googleapis.com/css?family=Raleway:400,300,500,600,100,200' rel='stylesheet' type='text/css'>
 <title><?php bloginfo('name'); ?></title>
 <!--[if lt IE 9]>
