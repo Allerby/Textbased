@@ -145,6 +145,11 @@ a .btn-1e:active {
 	opacity: 1;
 }
 
+/*Canvas Test*/
+#testCanvas {
+	background-color:#fff;
+}
+
 
 /*LEAGUE GOTHIC FONT*/
 /* Regular */
